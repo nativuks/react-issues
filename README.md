@@ -4,12 +4,16 @@
 
 ## Shortcuts
 
-Tab to go list
-ArrowUp/ArrowDown to walk
-I changes Filter to issues
-P changes Filter to pulls
-G go to detail issues
-Backspace to return home
+Tab to go list.
+ArrowUp/ArrowDown to walk.
+I changes Filter to issues.
+P changes Filter to pulls.
+G go to detail issues.
+Backspace to return home.
+
+# Rename .env.copy.local
+
+Rename your .env.copy.local file to .env.local and put your Github token
 
 # Getting Started with Create React App
 
