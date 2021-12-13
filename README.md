@@ -5,10 +5,10 @@
 ## Shortcuts
 
 Tab to go list.
-ArrowUp/ArrowDown to walk.
-I changes Filter to issues.
-P changes Filter to pulls.
-G go to detail issues.
+ArrowUp/ArrowDown to walk.\
+I changes Filter to issues.\
+P changes Filter to pulls.\
+G go to detail issues.\
 Backspace to return home.
 
 # Rename .env.copy.local
