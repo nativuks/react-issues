@@ -1,0 +1,19 @@
+.img-label-container {
+  display: flex;
+  flex-flow: column;
+  cursor: pointer;
+}
+
+.img-label-container > p {
+  font-size: 12px;
+}
+
+.img-label-container > img {
+  order: -1;
+  align-self: center;
+}
+
+.title-string {
+  font-size: 1.5vw;
+  position: fixed;
+}

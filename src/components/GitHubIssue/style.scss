@@ -1,0 +1,31 @@
+.no-autocomplete {
+  color: rgb(199, 216, 247);
+  padding: 8px;
+}
+
+.autocomplete {
+  border: 1px solid rgb(80, 143, 184);
+  list-style: none !important;
+  margin-top: 0;
+  max-height: fit-content;
+  overflow-y: auto;
+  padding-left: 0;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.autocomplete li {
+  padding: 8px;
+}
+
+.autocomplete > .active,
+.autocomplete li:hover {
+  background-color: rgb(145, 196, 216);
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.autocomplete li:not(:last-of-type) {
+  border-bottom: 1px solid rgb(80, 150, 216);
+}
